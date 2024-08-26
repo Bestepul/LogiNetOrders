@@ -1,0 +1,6 @@
+@LogiNetOrders.CompanyB.API_HostAddress = http://localhost:5104
+
+GET {{LogiNetOrders.CompanyB.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
