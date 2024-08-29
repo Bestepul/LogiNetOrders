@@ -1,0 +1,12 @@
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\bin\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.deps.json
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\bin\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\bin\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.AssemblyInfoInputs.cache
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.AssemblyInfo.cs
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.sourcelink.json
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\refint\LogiNetOrders.CompanyB.Infrastructure.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\LogiNetOrders.CompanyB.Infrastructure.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.CompanyB.Infrastructure\obj\Debug\net8.0\ref\LogiNetOrders.CompanyB.Infrastructure.dll

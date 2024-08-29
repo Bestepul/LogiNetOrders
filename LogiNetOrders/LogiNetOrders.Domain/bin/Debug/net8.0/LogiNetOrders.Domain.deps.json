@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LogiNetOrders.Domain/1.0.0": {
+        "runtime": {
+          "LogiNetOrders.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogiNetOrders.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

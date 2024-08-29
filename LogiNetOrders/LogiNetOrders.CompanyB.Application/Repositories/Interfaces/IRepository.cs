@@ -19,5 +19,8 @@ public interface IRepository<T> where T : BaseEntity
     Task<int> Delete(Expression<Func<T, bool>> predicate);
 
     Task<int> UpdateAll(List<T> entities);
+
+  
+
 }
 

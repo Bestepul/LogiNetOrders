@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogiNetOrders.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d457d5f2d9171e19da63095c7bff7a983d3819f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+711cf4e9c2164d610c78199413b8a10edab3e55e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogiNetOrders.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogiNetOrders.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

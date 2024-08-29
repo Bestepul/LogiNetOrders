@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "LogiNetOrders.CompanyB.API.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order/CreateOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "LogiNetOrders.CompanyB.Application.Commands.OrderCommands.CreateOrderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogiNetOrders.CompanyB.API.Controllers.OrderController",
+    "Method": "GetOrders",
+    "RelativePath": "api/Order/GetOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogiNetOrders.CompanyB.API.Controllers.PersonController",
+    "Method": "CreatePerson",
+    "RelativePath": "api/Person/CreatePerson",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "LogiNetOrders.CompanyB.Application.Commands.PersonCommands.CreatePersonCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogiNetOrders.CompanyB.API.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Product/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "LogiNetOrders.CompanyB.Application.Commands.ProductCommands.CreateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

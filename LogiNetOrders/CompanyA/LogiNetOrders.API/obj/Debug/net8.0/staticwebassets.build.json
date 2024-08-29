@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8lqbI08M3k+/fIqgOb6ndpobbtVoEabhJNPaFDdScx4=",
+  "Source": "LogiNetOrders.API",
+  "BasePath": "_content/LogiNetOrders.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

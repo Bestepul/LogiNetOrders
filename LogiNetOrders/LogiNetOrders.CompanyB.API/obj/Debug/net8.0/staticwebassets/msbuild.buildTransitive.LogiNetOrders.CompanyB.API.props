@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LogiNetOrders.CompanyB.API.props" />
+</Project>

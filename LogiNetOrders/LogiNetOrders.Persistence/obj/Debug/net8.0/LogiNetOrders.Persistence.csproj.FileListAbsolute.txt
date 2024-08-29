@@ -1,0 +1,12 @@
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\bin\Debug\net8.0\LogiNetOrders.Persistence.deps.json
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\bin\Debug\net8.0\LogiNetOrders.Persistence.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\bin\Debug\net8.0\LogiNetOrders.Persistence.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.AssemblyInfoInputs.cache
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.AssemblyInfo.cs
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.csproj.CoreCompileInputs.cache
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.sourcelink.json
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\refint\LogiNetOrders.Persistence.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\ref\LogiNetOrders.Persistence.dll

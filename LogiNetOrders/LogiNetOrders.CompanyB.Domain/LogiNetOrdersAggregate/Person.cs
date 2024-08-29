@@ -19,4 +19,8 @@ public class Person : BaseEntity
     [Required]
     [Phone]
     public string Phone { get; set; }= string.Empty;
+
+    //1 alıcı 2 teslim eden 
+    public int PersonTypeId { get; set; }
+    
 }

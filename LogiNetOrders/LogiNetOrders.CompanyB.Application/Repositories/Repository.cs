@@ -75,4 +75,6 @@ public class Repository<T> : IRepository<T> where T : BaseEntity
         _dbContext.Set<T>().UpdateRange(entities);
         return await Save();
     }
+
+   
 }

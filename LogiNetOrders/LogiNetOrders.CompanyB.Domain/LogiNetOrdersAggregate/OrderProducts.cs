@@ -10,8 +10,8 @@ namespace LogiNetOrders.CompanyB.Domain.LogiNetOrdersAggregate;
 public class OrderProducts : BaseEntity
 {
     public  int OrderId { get; set; }
-
+    public Orders Order { get; set; } =new Orders();
     public int ProductId { get; set; }
-    public  Products Product { get; set; } = new Products();
+    public  Products Product { get; set; }
     public  decimal Amount { get; set; }
 }

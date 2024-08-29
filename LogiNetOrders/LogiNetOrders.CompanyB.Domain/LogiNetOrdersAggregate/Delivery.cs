@@ -13,8 +13,9 @@ public class Delivery : BaseEntity
 
     public string LicensePlate { get; set; } = string.Empty;
 
+    public int DeliveryPersonId { get; set; }
     public Person DeliveryPerson { get; set; } = new Person();
 
-    public int OrderId { get; set; } 
-    public Orders Order { get; set; } = new Orders(); 
+    public int? OrderId { get; set; } 
+    public Orders? Order { get; set; } = new Orders(); 
 }
