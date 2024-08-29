@@ -6,4 +6,33 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Handlers\OrderHandlers\QueryHandlers\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.9.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.2" />
+    <PackageReference Include="Hangfire" Version="1.8.14" />
+    <PackageReference Include="MediatR" Version="12.4.0" />
+    <PackageReference Include="MediatR.Extensions.Autofac.DependencyInjection" Version="12.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LogiNetOrders.CompanyB.Application\LogiNetOrders.CompanyB.Application.csproj" />
+    <ProjectReference Include="..\..\LogiNetOrders.CompanyB.Domain\LogiNetOrders.CompanyB.Domain.csproj" />
+    <ProjectReference Include="..\..\LogiNetOrders.Domain\LogiNetOrders.Domain.csproj" />
+    <ProjectReference Include="..\..\LogiNetOrders.Infrastructure\LogiNetOrders.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\LogiNetOrders.Persistence\LogiNetOrders.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -10,3 +10,17 @@ C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Applicatio
 C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\obj\Debug\net8.0\refint\LogiNetOrders.Application.dll
 C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\obj\Debug\net8.0\LogiNetOrders.Application.pdb
 C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\obj\Debug\net8.0\ref\LogiNetOrders.Application.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\obj\Debug\net8.0\LogiNetOrders.Application.csproj.AssemblyReference.cache
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.CompanyB.Application.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.CompanyB.Domain.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.CompanyB.Persistence.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.Domain.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.Infrastructure.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.Persistence.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.CompanyB.Application.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.CompanyB.Domain.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.Domain.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.Infrastructure.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.Persistence.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\bin\Debug\net8.0\LogiNetOrders.CompanyB.Persistence.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\CompanyA\LogiNetOrders.Application\obj\Debug\net8.0\LogiNetO.B16241AB.Up2Date

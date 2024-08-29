@@ -10,3 +10,7 @@ C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Deb
 C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\refint\LogiNetOrders.Persistence.dll
 C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.pdb
 C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\ref\LogiNetOrders.Persistence.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetOrders.Persistence.csproj.AssemblyReference.cache
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\bin\Debug\net8.0\LogiNetOrders.Domain.dll
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\bin\Debug\net8.0\LogiNetOrders.Domain.pdb
+C:\Mülakatlar\NetlogOrderSystem\LogiNetOrders\LogiNetOrders.Persistence\obj\Debug\net8.0\LogiNetO.8EB28E37.Up2Date

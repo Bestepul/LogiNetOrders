@@ -27,10 +27,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseRouting();
-//app.UseEndpoints(endpoints =>
-//{
-//    endpoints.UseSoapEndpoint<IOrderService>("/OrderService.svc", new SoapEncoderOptions(), SoapSerializer.XmlSerializer);
-//});
+
 
 app.UseSoapEndpoint<IOrderService>("/OrderService.asmx",new SoapEncoderOptions());
 app.UseHttpsRedirection();

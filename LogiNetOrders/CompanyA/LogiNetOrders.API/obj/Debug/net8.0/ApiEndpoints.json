@@ -1,22 +1,23 @@
 [
   {
-    "ContainingType": "LogiNetOrders.API.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "LogiNetOrders.API.Controllers.OrderController",
+    "Method": "UpdateOrder",
+    "RelativePath": "api/Order/UpdateOrder/{id}",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[LogiNetOrders.API.WeatherForecast, LogiNetOrders.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "LogiNetOrders.Application.Commands.OrderCommands.UpdateOrderCommand",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
   }
 ]

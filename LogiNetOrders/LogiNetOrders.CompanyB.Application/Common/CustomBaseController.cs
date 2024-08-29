@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using LogiNetOrders.CompanyB.Application.Common;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using System;
